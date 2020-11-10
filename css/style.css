@@ -1,0 +1,27 @@
+/*!
+ * Start Bootstrap - The Big Picture (https://startbootstrap.com/template/the-big-picture)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-the-big-picture/blob/master/LICENSE)
+ */
+body {
+  background: url('https://files.wallpaperpass.com/2019/10/low%20poly%20wallpaper%20144%20-%201920x1080.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.btn {
+	font-weight: 700;
+	border-radius: 300px;
+	text-transform: uppercase;
+	border-color: #FFF5C4;
+}
+
+.btn:hover {
+	border-color: #138496;
+}
+
+.btn-xl {
+	padding: 1rem 2rem;
+}
